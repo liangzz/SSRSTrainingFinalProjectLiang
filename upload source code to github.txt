@@ -1,5 +1,0 @@
-https://www.youtube.com/watch?v=gj2yvMBmt1U
-how to upload source code to github using an application (instead of command line)(windows enviroment only)
-1.download and install the application(github for windows)
-2.prepare source code
-
